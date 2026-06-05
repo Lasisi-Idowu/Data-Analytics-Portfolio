@@ -81,7 +81,7 @@ Detail oriented Data Analyst with a B.Sc. in Statistics and 2+ years of professi
 
 ## 📬 Contact Me
 
-I am open to remote data analyst roles, Full-time Job, Contract Job, AI training/annotation projects, and freelance analytics work.
+I am open to Remote data analyst roles, Full-time Job, Contract Job, AI training/annotation projects, and freelance analytics work.
 
 Tel: 08144300442 & 07075259565                                                               
 📧 lasisiidowu2198@gmail.com  
