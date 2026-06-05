@@ -3,7 +3,7 @@
 **Data Analyst | Power BI | Advanced Excel | SQL | SPSS**  
 📍 Abuja, Nigeria | 🌐 Remote job | Contract | Full-time 
 📧 lasisiidowu2198@gmail.com  
-Tel: 08144300442 & 07075259565
+
 🔗 [LinkedIn](https://linkedin.com/in/lasisi-idowu-424496366)
 
 ---
@@ -82,7 +82,9 @@ Detail oriented Data Analyst with a B.Sc. in Statistics and 2+ years of professi
 
 ## 📬 Contact Me
 
-I am open to remote data analyst roles, AI training/annotation projects, and freelance analytics work.
+I am open to remote data analyst roles, Full-time Job, Contract Job, AI training/annotation projects, and freelance analytics work.
+
+Tel: 08144300442 & 07075259565
 
 📧 lasisiidowu2198@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/lasisi-idowu-424496366)
