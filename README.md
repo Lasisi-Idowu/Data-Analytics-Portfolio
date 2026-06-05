@@ -1,9 +1,9 @@
 # 📊 Data Analytics Portfolio Lasisi Sodiq Idowu
 
 **Data Analyst | Power BI | Advanced Excel | SQL | SPSS**  
-📍 Abuja, Nigeria | 🌐 Remote job | Contract | Full-time 
-📧 lasisiidowu2198@gmail.com  
+📍 Abuja, Nigeria | 🌐 Remote job | Contract | Full-time
 
+📧 lasisiidowu2198@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/lasisi-idowu-424496366)
 
 ---
