@@ -1,7 +1,7 @@
-# 📊 Data Analytics Portfolio — Lasisi Sodiq Idowu
+# 📊 Data Analytics Portfolio Lasisi Sodiq Idowu
 
 **Data Analyst | Power BI | Advanced Excel | SQL | SPSS**  
-📍 Abuja, Nigeria | 🌐 Remote-ready  
+📍 Abuja, Nigeria | 🌐 Remote job|Contract | Full-time 
 📧 lasisiidowu2198@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/lasisi-idowu-424496366)
 
@@ -9,7 +9,7 @@
 
 ## 👋 About Me
 
-Detail-oriented Data Analyst with a B.Sc. in Statistics and 2+ years of experience across government and commercial sectors. I specialize in data cleaning, dashboard development, KPI reporting, and translating complex datasets into clear, actionable insights using Excel, Power BI, and SQL.
+Detail oriented Data Analyst with a B.Sc. in Statistics and 2+ years of professional experience delivering data-driven insights across government and commercial sectors. At the National Bureau of Statistics, I cleaned and validated large survey datasets to support SDG reporting, and developed dashboards and KPI reports for policy decision-making. At Graza Media Limited, I build and maintain analytical spreadsheets and Power BI dashboards that improved campaign tracking efficiency by 25% and directly informed strategic advertising decisions. I bring strong proficiency in Microsoft Excel (advanced), Power BI, MySQL, and SPSS  with a track record of translating complex data into clear, actionable insights for stakeholders. I am meticulous, deadline driven, and experienced in working with structured analytical rubrics making me a strong contributor to AI data quality and artifact evaluation projects.
 
 ---
 
